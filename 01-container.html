@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bootstrap Container Comparison</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    .demo-box {
+      border: 2px dashed #999;
+      background-color: #f8f9fa;
+      padding: 15px;
+      margin-bottom: 15px;
+      text-align: center;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body class="p-4">
+
+  <h1 class="text-center mb-4">Bootstrap Container Comparison</h1>
+
+  <!-- Fixed Container -->
+  <div class="container demo-box">
+    .container → Fixed width, responsive breakpoints
+  </div>
+
+  <!-- Fluid Container -->
+  <div class="container-fluid demo-box bg-warning">
+    .container-fluid → Always full width
+  </div>
+
+  <!-- Breakpoint Specific -->
+  <div class="container-sm demo-box bg-primary text-white">
+    .container-sm → Full width until 576px, then fixed
+  </div>
+  <div class="container-md demo-box bg-success text-white">
+    .container-md → Full width until 768px, then fixed
+  </div>
+  <div class="container-lg demo-box bg-danger text-white">
+    .container-lg → Full width until 992px, then fixed
+  </div>
+  <div class="container-xl demo-box bg-info text-white">
+    .container-xl → Full width until 1200px, then fixed
+  </div>
+  <div class="container-xxl demo-box bg-dark text-white">
+    .container-xxl → Full width until 1400px, then fixed
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
