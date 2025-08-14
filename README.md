@@ -36,6 +36,24 @@ Each file and folder is organized topic-wise for easy access and understanding.
 ## Button groups with dropdowns
 
 ---
+## This section covers Bootstrap badges for highlighting counts, labels, and notifications:
+
+## 03-badges.html
+
+## Color variants → Primary, Secondary, Success, Danger, Warning, Info, Light, Dark
+## Pill badges → Rounded style using .rounded-pill
+## Badges in buttons → To display counts or notifications inside buttons
+## Badges with headings → Adding badges to headings for emphasis
+
+---
+
+## This section covers Bootstrap alerts for displaying messages and notifications:
+## 04-alerts.html
+## Color variants → Primary, Secondary, Success, Danger, Warning, Info, Light, Dark
+## Dismissible alerts → Alerts with a close button to hide them
+## Alerts with icons → Using Bootstrap Icons for visual enhancement
+## Alerts with links → Adding contextual links inside alerts
+
 
 ## 💻 Tools Used
 
