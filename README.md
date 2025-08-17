@@ -54,6 +54,84 @@ Each file and folder is organized topic-wise for easy access and understanding.
 ## Alerts with icons → Using Bootstrap Icons for visual enhancement
 ## Alerts with links → Adding contextual links inside alerts
 
+---
+
+## 05-button-group.html
+
+## Button groups → .btn-group for grouping multiple buttons together
+## Button toolbar → .btn-toolbar for combining groups
+## Vertical button groups → .btn-group-vertical for stacking
+## Sizes → .btn-group-lg, .btn-group-sm
+## Dropdown in groups → Combine .btn-group with .dropdown-toggle
+
+---
+
+## 06-navbar.html
+
+## navbar → Base class for navigation bar
+## navbar-brand → Branding or logo
+## navbar-nav → Wrapper for nav links
+## nav-item, nav-link → Menu items
+## navbar-toggler → Collapsible button for small screens
+## navbar-collapse → Collapsible content wrapper
+## Color schemes → navbar-light + bg-light / navbar-dark + bg-dark
+
+---
+
+## 07-card.html
+
+## card-body → Main content inside card
+## card-header, card-footer → Header & footer of card
+## card-title, card-subtitle, card-text → Typography inside card
+## card-img-top, card-img-bottom → Images in card
+## Card layouts → Card groups, grid cards, masonry
+
+---
+
+## 08-grid.html
+
+## row and col → Basic grid structure
+## col-1 to col-12 → Fixed column sizes
+## col-sm-*, col-md-*, col-lg-*, col-xl-*, col-xxl-* → Responsive breakpoints
+## Auto-layout → .col for equal-width columns
+## Nesting → Row and columns inside columns
+
+---
+
+## 09-grid-vertical-alignment.html
+
+## align-items-start → Align content at the top
+## align-items-center → Align content in the middle
+## align-items-end → Align content at the bottom
+## align-self-start, align-self-center, align-self-end → For single column alignment
+
+---
+
+## 10-form-control.html
+
+## form-control → For text, email, password inputs
+## form-control-sm, form-control-lg → Input sizing
+## Disabled & readonly inputs
+## File input, color input, range input
+## form-text → Helper text
+## form-check → Checkboxes and radios
+
+---
+
+## 11-form-layouts.html
+
+## Stacked forms → Default layout
+## Inline forms → row + col for inline alignment
+## Horizontal forms → Using col-form-label with grid
+## Grid-based forms → For structured form design
+
+---
+
+## AssignmentQ-card.html
+
+## Practice assignment using card concepts and layouts
+
+
 
 ## 💻 Tools Used
 
